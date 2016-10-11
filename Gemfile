@@ -4,6 +4,12 @@ source 'http://rubygems.org'
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.2.5.1'
 # Use postgresql as the database for Active Record
+
+
+gem 'coffee-script-source', '1.8.0'
+
+gem 'bootstrap-sass',       '3.2.0.0'
+
 gem 'pg', '~> 0.15'
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 5.0'
